@@ -209,7 +209,7 @@ fieldset[disabled] .btn-xl.active {
     font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
     font-weight: 400;
     letter-spacing: 1px;
-    color: #fff;
+    color: #1c6287;
 }
 
 .navbar-default .nav li a:hover,
@@ -263,7 +263,7 @@ fieldset[disabled] .btn-xl.active {
 
 header {
     text-align: center;
-    color: #fff;
+    color: rgba(28, 98, 135, 0.82);
     background-attachment: scroll;
     background-image: url(../img/header-bg.jpg);
     background-position: center center;
