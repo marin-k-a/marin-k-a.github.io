@@ -209,7 +209,7 @@ fieldset[disabled] .btn-xl.active {
     font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
     font-weight: 400;
     letter-spacing: 1px;
-    color: #1c6287;
+    color: rgba(80, 135, 154, 0.73);
 }
 
 .navbar-default .nav li a:hover,
@@ -220,13 +220,13 @@ fieldset[disabled] .btn-xl.active {
 
 .navbar-default .navbar-nav>.active>a {
     border-radius: 0;
-    color: #fff;
+    color: rgba(80, 135, 154, 0.73);
     background-color: #fed136;
 }
 
 .navbar-default .navbar-nav>.active>a:hover,
 .navbar-default .navbar-nav>.active>a:focus {
-    color: #fff;
+    color: rgba(80, 135, 154, 0.73);
     background-color: #fec503;
 }
 
@@ -726,6 +726,7 @@ footer span.copyright {
     text-transform: none;
     font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
     line-height: 40px;
+    color: #adadad;
 }
 
 footer ul.quicklinks {
