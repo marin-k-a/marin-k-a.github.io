@@ -1,6 +1,6 @@
 ---
 category: Клиент тестирует
-path: '/stuff'
+path: '/stuff/:id'
 title: 'Простой вопрос'
 
 layout: nil
