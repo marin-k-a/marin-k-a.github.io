@@ -2,7 +2,6 @@
 category: Клиент тестирует
 path: '/stuff/:id'
 title: 'Не получается'
-type: 'PUT'
 
 layout: nil
 ---
