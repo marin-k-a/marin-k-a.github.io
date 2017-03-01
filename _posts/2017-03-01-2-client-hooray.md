@@ -1,7 +1,8 @@
 ---
-category: Клиент тестирует
+category: Клиент работает
 path: '/stuff/:id'
-title: 'Все круто'
+title: 'Как я жил без вас!'
+type: '⭐️'
 
 layout: nil
 ---
