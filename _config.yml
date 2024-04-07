@@ -2,7 +2,7 @@
 title:               Чернетки та чорнила
 tagline:             'Марина Зайцева'
 description:         'Вірші, замальовки та проза. Пише <a href="https://www.instagram.com/marin_k_a/">Марина Зайцева</a>.'
-url:                 https://lanyon.getpoole.com
+url:                 https://ink.marin-k-a.com
 baseurl:             ''
 paginate:            5
 paginate_path:       "/page:num/"
@@ -19,5 +19,4 @@ plugins:
   - jekyll-paginate
 
 # Custom vars
-version:             1.1.0
 google_analytics_id: #UA-XXXX-Y
