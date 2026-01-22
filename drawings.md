@@ -1,0 +1,20 @@
+---
+layout: page
+title: Малюнки
+permalink: /drawings/
+---
+
+{% assign posts = site.tags.drawings %}
+
+{% if posts %}
+  <ul class="post-list">
+    {% for post in posts %}
+      <li>
+        <a href="{{ post.url | absolute_url }}">{{ post.title }}</a>
+        <small>{{ post.date | date: "%d.%m.%Y" }}</small>
+      </li>
+    {% endfor %}
+  </ul>
+{% else %}
+  <p>Поки що тут немає дописів.</p>
+{% endif %}
